@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98806904.css",
+    "main.js": "/static/js/main.ce5c833b.js",
+    "static/media/1616033040_2-p-fon-flappy-bird-2.png": "/static/media/1616033040_2-p-fon-flappy-bird-2.18c27811a499cdd83024.png",
+    "static/media/kapa.png": "/static/media/kapa.0d16320683cdf82367b7.png",
+    "static/media/almira.png": "/static/media/almira.a812786644b389223825.png",
+    "static/media/image-04-10-22-04-22.png": "/static/media/image-04-10-22-04-22.3a6c3dd5bc4a3a0830ea.png",
+    "static/media/casinoTop.png": "/static/media/casinoTop.f781f3d3e18d3db6cf9e.png",
+    "static/media/Undertale-Battle-Font.ttf": "/static/media/Undertale-Battle-Font.4ca303e5e47dd0610bd6.ttf",
+    "index.html": "/index.html",
+    "main.98806904.css.map": "/static/css/main.98806904.css.map",
+    "main.ce5c833b.js.map": "/static/js/main.ce5c833b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98806904.css",
+    "static/js/main.ce5c833b.js"
+  ]
+}
